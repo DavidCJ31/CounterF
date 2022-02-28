@@ -33,7 +33,8 @@ class _CounterScreenState extends State<CounterScreen> {
     const TextStyle fontSize30 = TextStyle(fontSize: 30);
 
     return Scaffold(
-      appBar: AppBar(title: const Text("Counter Screen"), elevation: 10),
+      appBar:
+          AppBar(title: const Text("Counter Screen Johanny"), elevation: 10),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
